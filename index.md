@@ -6,3 +6,14 @@
 ###### h6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+```
+``` javascript
+let hello = "Bonjour";
+console.log(hello);
+```
+``` java
+System.out.prinln("allo");
+```
