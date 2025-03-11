@@ -17,3 +17,7 @@ console.log(hello);
 ``` java
 System.out.prinln("allo");
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
